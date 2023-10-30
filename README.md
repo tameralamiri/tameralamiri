@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 ## Are you ready to scale your data platform?
-Book an intro call on here to see how we can collaborate ->  https://calendar.app.google/QJ36Z2R2WZzqBEwH7
+Let's connect to see how I can help
+* Send me an email to consult@tamer.io
+* Or book an intro call on here to see how we can collaborate ->  https://calendar.app.google/QJ36Z2R2WZzqBEwH7
 
 
 ## What I do:
