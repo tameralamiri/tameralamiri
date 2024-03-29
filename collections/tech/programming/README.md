@@ -12,6 +12,11 @@ There is multiple programming languages, each with its own strengths and weaknes
 To learn quickly you should have strong fundamentals, and then familiarize yourself with the syntax and idioms of the language you are learning to implement these fundamentals.
 [Guide to Programing Essential Concepts](programming-essential-concepts/README.md)
 
+
+### Preparing for Coding Interviews:
+I wrote about this in more detail in [Coding Interview Prep](coding-interview-prep/README.md)
+
+
 ### Web Development:
 For web development, I'm aligned with the view of breaking down the frontend and backend into two separate concerns.
 * **Frontend**: Where the focus is on Customer Delight: user experience, design, and interactivity.
