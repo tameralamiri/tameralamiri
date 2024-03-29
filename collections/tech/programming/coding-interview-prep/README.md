@@ -51,6 +51,7 @@ I found two resources that where helpful to practice these patterns:
 </details>
 <details>
 <summary>Maintaining this knowledge:</summary>
+
 To make maintenance easy:
 * Block a time on your calendar to practice weekly
 * Subscribe to a platform that has periodic contests to save yourself the time of searching for problems to solve.
