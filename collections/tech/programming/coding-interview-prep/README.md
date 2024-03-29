@@ -51,12 +51,10 @@ I found two resources that where helpful to practice these patterns:
 </details>
 <details>
 <summary>Maintaining this knowledge:</summary>
-
-My recommendation is to simplify the maintenance practice so you can do it weekly without feeling overwhelmed or spending so much overhead time searching for the right problems to solve.
-
-* Leet code has a weekly and bi-weekly contests: https://leetcode.com/contest
-* Advent of Code, every December has a series of puzzles increase in difficulty from day 1 to 25: https://adventofcode.com/
-
-Block on your calendar the time to do the weekly practice, and make it a habit. 
+To make maintenance easy:
+* Block a time on your calendar to practice weekly
+* Subscribe to a platform that has periodic contests to save yourself the time of searching for problems to solve.
+  * LeetCode: https://leetcode.com/contest they have weekly and bi-weekly contests.
+  * Advent of Code: https://adventofcode.com/ Every December has a series of puzzles increase in difficulty from day 1 to 25.
 
 </details>
