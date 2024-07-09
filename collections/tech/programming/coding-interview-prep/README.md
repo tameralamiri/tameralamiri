@@ -19,7 +19,7 @@ I like to follow LeetCode Roadmap when studying these basics:
 <img src="imgs/leetcode-prep-roadmap.png" width="495" height="658">
 
 * Phase 1:
-  * Arrays 101: https://leetcode.com/explore/learn/card/fun-with-arrays/
+  * [Arrays 101](phase-1/arrays-101.md): https://leetcode.com/explore/learn/card/fun-with-arrays/
   * Linked List: https://leetcode.com/explore/learn/card/linked-list/
 * Phase 2: 
   * Arrays and Strings: https://leetcode.com/explore/learn/card/array-and-string/
@@ -50,11 +50,15 @@ I found two resources that where helpful to practice these patterns:
 
 </details>
 <details>
-<summary>Maintaining this knowledge:</summary>
+<summary>Maintaining & Mastering this knowledge:</summary>
+
+I like [this video](https://www.youtube.com/watch?v=uoUHlZP094Q&t=411s) about mastering anything through deliberate practice.
+
+> **Deliberate practice** refers to a special type of practice that is purposeful and systematic. While regular practice might include mindless repetitions, deliberate practice requires focused attention and is conducted with the specific goal of improving performance.
 
 To make maintenance easy:
 * Block a time on your calendar to practice weekly
-* Subscribe to a platform that has periodic contests to save yourself the time of searching for problems to solve.
+* Subscribe to a platform that has periodic contests to save yourself the time of searching for problems to solve and avoid repeating the same problems.
   * LeetCode: https://leetcode.com/contest they have weekly and bi-weekly contests.
   * Advent of Code: https://adventofcode.com/ Every December has a series of puzzles increase in difficulty from day 1 to 25.
 
