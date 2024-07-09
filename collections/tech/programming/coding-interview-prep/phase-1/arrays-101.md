@@ -141,4 +141,4 @@ def remove_duplicate_unsorted(nums):
     return write_index
 ```
 
-[More python examples](arrays.py)
+[More arrays examples in python](arrays.py)
