@@ -15,11 +15,12 @@ Here where I keep my notes, code snippets, and resources on various topics, orga
 
 ## Contacts:
 * [LinkedIn](https://www.linkedin.com/in/tamer-alamiri/) (Currently Deactivted)
-* All Types of Email: <email@tamer.io> (Hosted by Protonmail)
+* For All Types of Inquiries: <email@tamer.io> (Hosted by Protonmail)
 
 ## Updates:
-* As of Nov 19th 2024, I disabled all my social media accounts including linkedin, so this github account is the only publicly available account where you can find me. Still happy to chat with people and meet IRL, reach out to my email to figure out something.
+* As of Nov 19th 2024, I disabled all my social media accounts including linkedin, so this github account is the only publicly available account where you can find me. Happy to chat with people and meet IRL. Reach out to me via email and we will figure out something.
 
+Cheers,
 Tamer
 <!--
 **tameralamiri/tameralamiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
